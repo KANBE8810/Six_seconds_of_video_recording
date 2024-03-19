@@ -1,0 +1,2 @@
+# Six_seconds_of_video_recording
+学習データセットを集めるために6秒間の動画を撮影するプログラム
